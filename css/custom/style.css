@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+    max-height: 100vh;
+}
+
+.alturaMaxima{
+    height: 100vh;
+    max-height: auto;
+    width: auto;
+    right: 0px;
+    background-size: cover;
+
+
+
+
+}
