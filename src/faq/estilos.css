@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+}
+
+h1 {    
+    font-size: 60px;
+    text-align: center;
+}
+.titulo-bg{
+    background-color: #6f19ff;
+
+}
+
+#logo {
+text-align: left;
+}
+
+#login {
+    text-align: right;
+}
+
+
+
+
+@media (max-width: 991px){
+  #logo {
+      text-align: center;
+  }
+  #login {
+      text-align: center;
+  }
+  h1 {
+      font-size: 39px;
+  
+
+}
