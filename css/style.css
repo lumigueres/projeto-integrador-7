@@ -16,6 +16,21 @@ top: -151px;
 z-index: 10;
 }
 
+ul.nav.nav-pills {
+    margin-top: 33px;
+    text-align: center;
+    margin-left: 40%;
+  }
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: black;
+    background-color: white;
+}
+
+.nav-pills a {
+  color: black;
+}
+
 .logo {
   width: 50%;
   left: 50%;
