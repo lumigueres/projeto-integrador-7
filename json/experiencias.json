@@ -1,0 +1,15 @@
+{
+  "experiencias": [
+    {
+      "type": "musica",
+      "image": "music_maxperience.png",
+      "icon": "logo_musica.png"
+    },
+    {
+      "type": "games",
+      "image": "games_maxperience.png",
+      "icon": "logo_musica.png"
+    }
+
+  ]
+}
