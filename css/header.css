@@ -1,0 +1,52 @@
+
+.input-group {
+  width: 30%;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.linha {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+img.logo {
+  position: relative;
+  top: 5px;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+input-group-btn.search-button {
+    border-radius: 20px;
+}
+
+.input-group-btn:last-child>.btn {
+  border-radius: 20px;
+}
+
+.input-group .form-control:first-child {
+  border-radius: 20px;
+}
+
+.header-button {
+    border-radius: 50px;
+    border: none;
+    color: #6f19ff;
+}
+
+.main-header-align {
+  display: flex;
+  align-items: flex-end;
+}
+
+input.form-control {
+    border-radius: 50px;
+}
+
+.barra-inicial {
+  width: 50%;
+}
