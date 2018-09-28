@@ -9,6 +9,11 @@
       "type": "games",
       "image": "games_maxperience.png",
       "icon": "logo_musica.png"
+    },
+    {
+      "type": "fit",
+      "image": "workout_maxperience.png",
+      "icon": "logo_musica.png"
     }
 
   ]
