@@ -2,6 +2,10 @@
 box-sizing: border-box;
 }
 
+.barra-inicial {
+  width: 50%;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   padding: 0;
@@ -31,14 +35,14 @@ ul.nav.nav-pills {
   color: black;
 }
 
-.logo {
+/* .logo {
   width: 50%;
   left: 50%;
   display: block;
   margin: 0 auto;
   padding-bottom: 20px;
   padding-top: 20px;
-}
+} */
 
 .container {
   width: 1180px;
@@ -111,14 +115,6 @@ ul.nav.nav-pills {
   width: 100%;
 }
 
-footer ul {
-  padding: 0;
-}
-
- footer ul li {
-   width: 100%
-   padding: 15px;
- }
 
 a {
     color: #6f19ff;
