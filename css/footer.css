@@ -1,0 +1,14 @@
+.footer-main {
+  border-top: 1px solid #ccc;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+footer ul {
+  padding: 0;
+}
+
+ footer ul li {
+   width: 100%
+   padding: 15px;
+ }
